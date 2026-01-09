@@ -48,7 +48,7 @@ global:
   #
   # NOTE: This setting only affects visibility for borders that have been initialized.
   # To make sure a border is initialized in the first place, use window_rules.
-  follow_native_border: False
+  follow_native_border: True
 
   # initialize_delay: Time (in ms) before the border appears after opening a new window
   # unminimize_delay: Time (in ms) before the border appears after unminimizing a window
