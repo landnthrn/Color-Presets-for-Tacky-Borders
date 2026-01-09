@@ -3,8 +3,7 @@
 
 # 135 Color-Presets-for-Tacky-Borders
 
-Tacky-Borders let you customize window borders with color animations, gradients, one side color fades, and static colors.   
-Works on Windows 10 and 11.
+Tacky-Borders let you customize window borders with color animations, gradients, one side color fades, and static colors. Works on Windows 10 and 11.
 
 ## [GET TACKY-BORDERS HERE](https://github.com/lukeyou05/tacky-borders)
 
