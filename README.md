@@ -1,7 +1,7 @@
 ![colorpresetspreview](https://github.com/user-attachments/assets/af4c66a2-ae4f-4adf-b59b-f89bc1e7e523)
 
 
-# 135 Color-Presets-for-Tacky-Borders
+# 135 Color Presets for Tacky-Borders
 
 Tacky-Borders let you customize window borders with color animations, gradients, one side color fades, and static colors. Works on Windows 10 and 11.
 
@@ -21,7 +21,7 @@ Comes with two speed variations for the spiral animations — Default & Slower
 
 ### NOTE:
 
->I'm on Windows 10 and Tacky Borders works just fine on it, I added a simple fix for [Seelen-UI](https://github.com/eythaann/Seelen-UI) support and for dual-monitor setups, which is applied to all presets. I spoke with the developer, whom may of accounted for those in a later release. 
+>I'm on Windows 10 and Tacky-Borders works just fine on it, I added a simple fix for using [Seelen-UI](https://github.com/eythaann/Seelen-UI) with it and for dual-monitor setups, which is applied to all presets. I spoke with the developer, whom may of accounted for those in a later release. 
 
 ---
 
