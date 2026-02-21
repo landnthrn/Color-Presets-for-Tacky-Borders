@@ -21,7 +21,7 @@ Comes with two speed variations for the spiral animations — Default & Slower
 
 ### NOTE:
 
-I'm on Windows 10 and Tacky Borders works just fine on it, I added a simple fix for [Seelen-UI](https://github.com/eythaann/Seelen-UI) support and for dual-monitor setups, which is applied to all presets. I spoke with the developer, whom may of accounted for those in a later release. 
+>I'm on Windows 10 and Tacky Borders works just fine on it, I added a simple fix for [Seelen-UI](https://github.com/eythaann/Seelen-UI) support and for dual-monitor setups, which is applied to all presets. I spoke with the developer, whom may of accounted for those in a later release. 
 
 ---
 
