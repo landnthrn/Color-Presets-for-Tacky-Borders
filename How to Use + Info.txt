@@ -19,7 +19,7 @@ Color Map.txt ~ Displays all the hex codes used in the color variations
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-INSTALL TACKY BORDERS
+INSTALL TACKY-BORDERS
 
 The easiest way to install Tacky Borders is to download a pre-built release from the releases page:  
 https://github.com/lukeyou05/tacky-borders/releases  
@@ -29,7 +29,7 @@ When you run the .exe for the first time, tacky-borders will automatically gener
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-HOW TO IMPLEMENT THE COLOR PRESETS:
+HOW TO USE COLOR PRESETS:
 
 It's super simple.  
 
@@ -86,6 +86,7 @@ Paypal Donation:
 https://www.paypal.com/donate/?hosted_button_id=K4PLHFVBH7X8C  
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 
